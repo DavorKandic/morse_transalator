@@ -8,6 +8,6 @@ __INSTRUCTIONS:__
 * or 'q' if you want to quit program
 
 And here is link to morse cheatsheet just in case...
-[Morse Code Chearsheet](https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg)
+[Morse Code Cheatsheet](https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg)
 
 Have Fun ;)
